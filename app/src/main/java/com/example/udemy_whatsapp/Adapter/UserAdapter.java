@@ -12,6 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.example.udemy_whatsapp.MessageActivity;
 import com.example.udemy_whatsapp.Model.Users;
 import com.example.udemy_whatsapp.R;
 
@@ -81,9 +82,9 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.ViewHolder> {
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                /*Intent i = new Intent(context, MessageActivity.class);
+                Intent i = new Intent(context, MessageActivity.class);
                 i.putExtra("userid", users.getId());
-                context.startActivity(i);*/
+                context.startActivity(i);
 
             }
         });
