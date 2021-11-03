@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757179254562",
+    "project_id": "udemywhatsapp-5ff23",
+    "storage_bucket": "udemywhatsapp-5ff23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757179254562:android:001b69eb8ded5ed3d2c77b",
+        "android_client_info": {
+          "package_name": "com.example.udemy_whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757179254562-00s1qbuhmpj80cnt4jg90s8dqvenp4hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0IFcH2yBr8MNDLAUCB91Sir5RRId3i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757179254562-00s1qbuhmpj80cnt4jg90s8dqvenp4hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
